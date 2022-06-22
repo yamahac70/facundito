@@ -1,0 +1,67 @@
+{
+  "productos": [
+    {
+      "producto_precio": 200,
+      "id": 1,
+      "producto_name": "Café la Virginia",
+      "producto_stock": 31,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.20NgHBMzfO8RoALkifmz4wHaHa&pid=Api&P=0&w=168&h=168"
+    },
+    {
+      "producto_precio": 350,
+      "id": 2,
+      "producto_name": "Pizza",
+      "producto_stock": 77,
+      "img": "https://tse4.mm.bing.net/th?id=OIP.z_ilCv9sIs4AnOpF_9GB5AHaEo&pid=Api&P=0&w=282&h=176"
+    },
+    {
+      "producto_precio": 320,
+      "id": 3,
+      "producto_name": "Coa Cola",
+      "producto_stock": 77,
+      "img": "https://tse1.mm.bing.net/th?id=OIP.tKQX9UnJmLoRZ0Ht-CuuQAHaHa&pid=Api&P=0&w=165&h=165"
+    },
+    {
+      "producto_precio": 400,
+      "id": 4,
+      "producto_name": "Limon",
+      "producto_stock": 18,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.waPklUntLINgsa4RCD0k6wHaGF&pid=Api&P=0&w=231&h=190"
+    },
+    {
+      "producto_precio": 40,
+      "id": 5,
+      "producto_name": "Yerba Pajarito",
+      "producto_stock": 221,
+      "img": "https://tse3.mm.bing.net/th?id=OIP.4JCTMSS7qt_l7HSuMoaF4AHaHa&pid=Api&P=0&w=300&h=300"
+    },
+    {
+      "producto_precio": 150,
+      "id": 6,
+      "producto_name": "Tomate",
+      "producto_stock": 5,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.ZQf_Lffx4PsbyJBuoEXxgAHaHG&pid=Api&P=0&w=193&h=185"
+    },
+    {
+      "producto_name": "dsdd",
+      "producto_precio": "3",
+      "producto_stock": "3",
+      "img": "https://es.web.img2.acsta.net/pictures/17/08/25/09/36/103601.jpg",
+      "id": 7
+    },
+    {
+      "producto_name": "dsddlklklk",
+      "producto_precio": "30000",
+      "producto_stock": "15",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/15/a4/9b/77/legacy-hotel-at-img-academy.jpg",
+      "id": 8
+    },
+    {
+      "producto_name": "kolo",
+      "producto_precio": "2122",
+      "producto_stock": "221",
+      "img": "https://es.web.img2.acsta.net/pictures/17/08/25/09/36/103601.jpg",
+      "id": 9
+    }
+  ]
+}
