@@ -1,20 +1,6 @@
 {
   "productos": [
     {
-      "producto_precio": 200,
-      "id": 1,
-      "producto_name": "Café la Virginia",
-      "producto_stock": 31,
-      "img": "https://tse2.mm.bing.net/th?id=OIP.20NgHBMzfO8RoALkifmz4wHaHa&pid=Api&P=0&w=168&h=168"
-    },
-    {
-      "producto_precio": 350,
-      "id": 2,
-      "producto_name": "Pizza",
-      "producto_stock": 77,
-      "img": "https://tse4.mm.bing.net/th?id=OIP.z_ilCv9sIs4AnOpF_9GB5AHaEo&pid=Api&P=0&w=282&h=176"
-    },
-    {
       "producto_precio": 320,
       "id": 3,
       "producto_name": "Coa Cola",
@@ -29,11 +15,11 @@
       "img": "https://tse2.mm.bing.net/th?id=OIP.waPklUntLINgsa4RCD0k6wHaGF&pid=Api&P=0&w=231&h=190"
     },
     {
-      "producto_precio": 40,
-      "id": 5,
-      "producto_name": "Yerba Pajarito",
-      "producto_stock": 221,
-      "img": "https://tse3.mm.bing.net/th?id=OIP.4JCTMSS7qt_l7HSuMoaF4AHaHa&pid=Api&P=0&w=300&h=300"
+      "producto_name": "y ella",
+      "producto_precio": "40",
+      "producto_stock": "221",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.4JCTMSS7qt_l7HSuMoaF4AHaHa&pid=Api&P=0&w=300&h=300",
+      "id": 5
     },
     {
       "producto_precio": 150,
